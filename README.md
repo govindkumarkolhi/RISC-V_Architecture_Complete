@@ -8,7 +8,7 @@
 
 ### RTL Schematic (Vivado)
 
-![Single Cycle RTL Schematic](RISC-V_Single_Cycle/RTL_Schematic/schematic.png)
+![Single Cycle RTL Schematic](RISC-V_Single_Cycle/Output%20Waveforms/schemetic.png)
 
 ---
 
@@ -60,7 +60,7 @@ jal  x6, jal_label
 ### Instruction Memory Testbench
 
 
-![Instruction Memory](RISC-V_Single_Cycle/Output%20Waveforms/instr.png)
+![Instruction Memory](RISC-V_Single_Cycle/Output%20Waveforms/isntr.png)
 
 
 ### ALU Testbench
@@ -114,7 +114,7 @@ jal  x6, jal_label
 ### RTL Schematic (Vivado)
 
 
-![Multicycle RTL Schematic](RISC-V_Multicycle/RTL_Schematic/schematic.png)
+![Multicycle RTL Schematic](RISC-V_Multicycle/Output%20Waveforms/schemetic_multicycle.png)
 
 
 ---
