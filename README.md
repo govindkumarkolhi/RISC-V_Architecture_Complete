@@ -4,7 +4,7 @@
 
 ### Block Diagram
 
-![Single Cycle Block Diagram](RISC-V_Single_Cycle/Block%20Diagram/block_diagram.png)
+![Single Cycle Block Diagram](RISC-V_Single_Cycle/Block%20Diagram/RISC-V_Single_cycle_block_diagram.png)
 
 
 ### RTL Schematic (Vivado)
