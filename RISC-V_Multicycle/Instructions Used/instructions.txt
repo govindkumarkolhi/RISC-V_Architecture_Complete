@@ -1,0 +1,10 @@
+addi x1 x0 10
+addi x2 x0 20
+sw x2 80(x1)
+lw x4 80(x1)
+jal_label:
+beq x4 x2 label
+addi x5 x4 50
+label:
+addi x5 x4 400 
+jal x6 jal_label
