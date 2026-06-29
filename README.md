@@ -203,7 +203,7 @@ jal  x6, jal_label
 ### RTL Schematic (Vivado)
 
 
-![Pipeline RTL Schematic](RISC-V_Pipeline_with_Hazards/RTL_Schematic/schematic.png)
+![Pipeline RTL Schematic](RISC-V_Pipeline_with_Hazards/Output%20Waveform/schemetic_pipeline.png)
 
 
 ---
