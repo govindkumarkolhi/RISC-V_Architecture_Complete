@@ -212,14 +212,14 @@ jal  x6, jal_label
 
 ```assembly
 assembly
-1  addi x1, x0, 10
-2  addi x2, x0, 20
-3  add  x3, x1, x2
-4  sw   x2, 13(x1)
-5  lw   x4, 13(x1)
-6  beq  x4, x2, label
-7  addi x5, x4, 50
-8  addi x6, x5, 100
+ addi x1, x0, 10
+ addi x2, x0, 20
+ add  x3, x1, x2
+ sw   x2, 13(x1)
+ lw   x4, 13(x1)
+ beq  x4, x2, label
+ addi x5, x4, 50
+ addi x6, x5, 100
 
 label:
 9  addi x5, x4, 400
