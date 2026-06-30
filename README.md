@@ -222,8 +222,8 @@ assembly
  addi x6, x5, 100
 
 label:
-9  addi x5, x4, 400
-10 sub  x6, x5, x4
+ addi x5, x4, 400
+ sub  x6, x5, x4
 ```
 
 
